@@ -24,9 +24,10 @@ h2 {
 }
 
 .start {
-    background: rgb(211, 25, 25);
+    background: rgb(75, 145, 43);
     padding: 0.5rem 2.5rem;
     border-radius: 1.5rem;
+    font-size: 19px;
 }
 
 .score {
